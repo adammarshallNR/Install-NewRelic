@@ -1,0 +1,4 @@
+license_key: 
+enable_process_metrics: false
+status_server_enabled: false
+status_server_port: 18003
